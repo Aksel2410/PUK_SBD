@@ -1,0 +1,12 @@
+To run the script, run: python3 run_all_sbd.py
+
+The script expects videos in the data folder. For privacy policy, we was not able to store any test files.
+
+A output directory name SBD_output will be made a used for all outout files
+
+Dependencies:
+sklearn
+pickle
+cv2
+os
+numpy
